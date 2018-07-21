@@ -28,4 +28,5 @@ ReactDOM.render(
   e(LikeButton, { commentID: commentID }), 
   domContainer
    );
+  
 });
